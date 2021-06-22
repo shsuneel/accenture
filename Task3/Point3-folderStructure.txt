@@ -1,0 +1,26 @@
+src
+    Components
+    Image
+    Paragraph
+    Card
+    Loader
+Assets
+    Images
+    Icons
+    fonts
+Pages
+    Users
+	Userdetails
+Containers
+    UserWidget
+    UserDetailsWidget
+    UserCard
+Services
+	Get
+	POST
+GlobalStyles
+Theme
+	APP THEME
+
+Public
+ Index.html

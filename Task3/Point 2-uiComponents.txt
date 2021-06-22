@@ -1,0 +1,10 @@
+Container Components
+•	UserWidget
+•	UserDetailsWidget
+•	UserCard
+
+Presentational Components
+•	Image
+•	Paragraph
+•	Card
+•	Loader

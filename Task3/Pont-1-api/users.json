@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "imgUrl": "/images/joendoe",
+            "email": "john.doe@accenture.com"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "imgUrl": "/images/janedoe",
+            "email": "jane.doe@accenture.com"
+        },
+        {
+            "id": 3,
+            "name": "Adam Doe",
+            "imgUrl": "/images/adamdoe",
+            "email": "adam.doe@accenture.com"
+        },
+        {
+            "id": 4,
+            "name": "Mountion Doe",
+            "imgUrl": "/images/mountaindoe",
+            "email": "mountain.doe@accenture.com"
+        }
+    ]
+}

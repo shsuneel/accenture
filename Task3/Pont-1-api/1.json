@@ -1,0 +1,11 @@
+{
+    "data": {
+        "id": 1,
+        "name": "John Doe",
+        "imgUrl": "/images/joendoe",
+        "email": "john.doe@accenture.com",
+        "about": "This is just a user description",
+        "age": 11,
+        "dob": "11/11/2000"
+    }
+}

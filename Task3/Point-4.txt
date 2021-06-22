@@ -1,0 +1,4 @@
+Initial page load will be slower 
+as it will need multiple API calls to load the list of users.
+Lazy loading/ pagination(server side/clint side) can be implement depending on volume of users data based on scrolling etc
+We can use SSR
